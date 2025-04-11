@@ -1,7 +1,7 @@
-<h2 align="center" style="border-bottom: none;">
+<h2 align="center">
   <i>
     <samp>
-      > 👋 Hi, Welcome to my page.
+      👋 Hi, Welcome to my page.
     </samp>
   </i>
 </h2>
@@ -9,21 +9,16 @@
 <h3 align="center">
   <i>
     <samp>
-      > I am passionate <a href="#"><img src="./widgets/heart-on-fire.webp" alt="❤️‍🔥" title="❤️‍🔥" height="28" width="28" /></a> about open source software and giving back to others.
+      > Hey, I’m panxiaochao, I am passionate ❤️‍🔥 about open source software and giving back to others, my projects are trusted.
     </samp>
   </i>
 </h3>
 
-
-
-### 👋 Hi, Welcome to my page.
-I’m @panxiaochao, I'm Code king~
-
 ### language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiaochao&layout=compact)](https://github.com/panxiaochao)
+[![Lypxc's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiaochao&theme=dracula)](https://github.com/panxiaochao)
 
 ### GitHub stats
-![Lypxc's GitHub stats](https://github-readme-stats.vercel.app/api?username=panxiaochao&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Lypxc's GitHub stats](https://github-readme-stats.vercel.app/api?username=panxiaochao&theme=dracula)](https://github.com/panxiaochao)
 
 ### Open Source Project
 [![pxc-framework](https://github-readme-stats.vercel.app/api/pin/?username=panxiaochao&repo=pxc-framework)](https://github.com/panxiaochao/pxc-framework)
@@ -37,8 +32,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<style>
-h1, h2, h3, h4, h5, h6 {
-    border: none !important;
+
+.markdown-body h2 {
+    border-bottom: none;
 }
-</style>
+
