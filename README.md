@@ -21,6 +21,7 @@
 [![Lypxc's GitHub stats](https://github-readme-stats.vercel.app/api?username=panxiaochao&theme=dracula)](https://github.com/panxiaochao)
 
 ### Open Source Project
+[![zenith](https://github-readme-stats.vercel.app/api/pin/?username=panxiaochao&repo=zenith)](https://github.com/panxiaochao/zenith)
 [![pxc-framework](https://github-readme-stats.vercel.app/api/pin/?username=panxiaochao&repo=pxc-framework)](https://github.com/panxiaochao/pxc-framework)
 [![pxc-spring-boot-projects](https://github-readme-stats.vercel.app/api/pin/?username=panxiaochao&repo=pxc-spring-boot-projects)](https://github.com/panxiaochao/pxc-spring-boot-projects)
 [![pxc-spring-boot-authorization-server](https://github-readme-stats.vercel.app/api/pin/?username=panxiaochao&repo=pxc-spring-boot-authorization-server)](https://github.com/panxiaochao/pxc-spring-boot-authorization-server)
